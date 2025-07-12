@@ -27,8 +27,8 @@ A lightweight Node.js utility to parse strings with numbers and ranges, expandin
 1. **Clone the repository**
 
    ```bash
-   git clone <your-repo-url>
-   cd string-range-expander
+   git clone https://github.com/jatuAbdullah/String-Range-Expander.git
+   cd String-Range-Expander
    ```
 
 2. **Run with Node.js**
